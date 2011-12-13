@@ -1,0 +1,122 @@
+firstname: Michal
+surname: Sudwoj
+contact: mailto:mswoj61@gmail.com
+subtitle:
+    - med:
+    - student
+    - uzh: http://www.uzh.ch/
+
+networks:
+    - name: feed
+      url: https://www.google.com/reader/shared/user%2F05656329729253096458%2Fstate%2Fcom.google%2Fstarred
+      alt: RSS Feed
+    - name: facebook
+      url: https://www.facebook.com/westernmagic
+      alt: FaceBook
+    - name: twitter
+      url: http://www.twitter.com/westernmagic
+      alt: Twitter
+    - name: orkut
+      url: http://www.orkut.com/Main#Profile?uid=16351338758266837587
+      alt: orkut
+    - name: google+
+      url: https://plus.google.com/103934467584611394914
+      alt: Google+
+    - name: google
+      url: https://profiles.google.com/mswoj61/about
+      alt: Google
+    - name: github
+      url: http://www.github.com/westernmagic
+      alt: GitHub
+    - name: steam
+      url: http://steamcommunity.com/id/westernmagic
+      alt: Steam
+    - name: lastfm
+      url: http://www.last.fm/user/westernmagic
+      alt: LastFM
+    - name: foursquare
+      url: http://www.foursquare.com/user/5474484
+      alt: FourSquare
+    - name: gowalla
+      url: http://gowalla.com/users/76026
+      alt: Gowalla
+    - name: goodreads
+      url: http://www.goodreads.com/user/show/3338420-michal-sudwoj
+      alt: Goodreads
+    - name: posterous
+      url: http://westernmagic.posterous.com/
+      alt: Posterous
+    - name: picasa
+      url: https://picasaweb.google.com/mswoj61
+      alt: Picasa
+    - name: flickr
+      url: http://www.flickr.com/photos/71728339@N03/
+      alt: Flickr
+    - name: youtube
+      url: http://www.youtube.com/swisswest
+      alt: YouTube
+    - name: skype
+      url: callto:mswoj61
+      alt: Skype
+    - name: messenger
+      url: msnim:chat?contact=mswoj61@hotmail.com
+      alt: Windows Live Messenger
+    - name: google-talk
+      url: gtalk:chat?jid=mswoj61@gmail.com
+      alt: Google Talk
+    - name: email
+      url: mailto:mswoj61@gmail.com
+      alt: EMail
+    - name: creativecommons
+      url: http://creativecommons.org/licenses/by-nc-sa/3.0/
+      alt: Creative Commons
+    
+links:
+    - Apps:
+        - name: Kod
+          description: Programmers' editor for OS X
+          url: http://kodapp.com/
+        - name: Homebrew
+          description: The missing package manager for OS X
+          url: http://mxcl.github.com/homebrew/
+        - name: SickBeard
+          description: PVR & episode guide that downloads and manages all your TV shows
+          url: http://code.google.com/p/sickbeard/
+    - Comics:
+        - name: Ctrl+Alt+Del
+          description: Humorous commentary on video games, plus a comic.
+          url: http://www.cad-comic.com/
+        - name: XKCD
+          description: Stick-figure strip featuring humour about technology, science, mathematics and relationships, by Randall Munroe.
+          url: http://xkcd.com/
+        - name: Mimi and Eunice
+          description: Pronounced “me-me and you-ness" these cartoons by Nina Paley often comment on issues in the digital age.
+          url: http://mimiandeunice.com/
+        - name: Nichtlustig
+          url: http://www.nichtlustig.de/
+        - name: Misfile
+          description: And angel accidentally changes a boy into a girl, misplaces two years of someone else's life, and then must help them cope.
+          url: http://www.misfile.com/
+    - Web:
+        - name: CakePHP
+          url: http://www.cakephp.org
+        - name: HTML5-Boilerplate
+          description: A rock-solid default for HTML5 awsome.
+          url: http://html5boilerplate.com/
+        - name: HTML5 Readiness
+          url: http://html5readiness.com/
+        - name: CSS3, please!
+          url: http://css3please.com/
+        - name: W3Fools
+          description: W3Schools - An intervention - Are you using? Abusing? We're here to help.
+          url: http://w3fools.com/
+    - iPhone:
+        - name: iPhone Dev Team
+          url: http://blog.iphone-dev.org/
+        - name: iDroid
+          url: http://www.idroidproject.org/
+    - Progamming:
+        - name: lolcode
+          url: http://lolcode.com/
+        - name: Learn You a Haskell for Great Good!
+          url: http://learnyouahaskell.com/

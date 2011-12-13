@@ -1,0 +1,167 @@
+body {
+	background-color: black ;
+	color: white ;
+	font-family: 'ETH Light' , 'Lucida Grande' , 'Arial MT' , 'Arial' , sans-serif ;
+	font-size: 20pt ;
+}
+
+a , a:link , a:visited , a:active {
+	color: white ;
+	text-decoration: none ;
+}
+
+a:hover {
+	color: gray ;
+	text-decoration: none ;
+}
+
+header , .greenbox {
+	position: fixed ;
+	padding: 0px 50px ;
+	top: 0px ;
+	left: 0px ;
+	text-align: left ;
+	height: 90px ;
+}
+
+header{
+	background-color: black ;
+	width: 100% ;
+	z-index: 1 ;
+}
+
+.greenbox {
+	background-color: green ;
+}
+
+header ul {
+	display: inline ;
+	line-height: 54px ;
+}
+
+header ul li {
+	display: inline ;
+}
+
+.title {
+	font-size: 30pt ;
+}
+
+.subtitle {
+	font-size: 14pt ;
+}
+
+.sidebar {
+	width: 75px ;
+	position: fixed ;
+	top: 0px ;
+	right: 0px ;
+	text-align: center ;
+}
+
+footer {
+	position: fixed ;
+	bottom: 0cm ;
+	left: 0px ;
+	right: 0px ;
+	height: 75px ;
+	background-color: black ;
+	text-align: center ;
+	font-size: 12pt ;
+}
+
+.main {
+	padding: 75px ;
+}
+
+ul {
+	list-style-type: none ;
+	margin-top: 0px ;
+	margin-bottom: 0px ;
+	margin-left: 0px ;
+	padding-left: 0px ;
+}
+
+.list {
+	padding-top: 37px ;
+	padding-left: 75px ;
+}
+
+.list ul {
+	display: block ;
+}
+
+.list li {
+	display: inline ;
+	float: left ;
+	padding: 0px ;
+	clear: both ;
+}
+
+.list li div.vertical{
+	line-height: 0px ;
+	position: relative ;
+	top: 7px ;
+}
+
+dl {
+	margin-top: 0cm ;
+	margin-bottom: 0px ;
+	margin-left: 50px ;
+}
+
+dt , dd {
+	display: inline ;
+	margin-left: 0px ;
+}
+
+dd {
+	font-size: 14pt ;
+	color: gray ;
+}
+
+dd:after{
+	content: "\A" ;
+	white-space: pre ;
+}
+
+td.left {
+	text-align: left ;
+}
+
+td.center {
+	text-align: center ;
+	padding-left: 3px ;
+	padding-right: 3px ;
+}
+
+td.right {
+	text-align: right ;
+}
+
+abbr[title] {
+	border-bottom-style: none ;
+}
+
+.vertical {
+	text-align: right ;
+	-moz-transform: translate( -100% ) rotate( 270deg ) ;
+	-o-transform: translate( -100% ) rotate( 270deg ) ;
+	-webkit-transform: translate( -100% ) rotate( 270deg ) ;
+	-ms-transform: translate( -100% ) rotate( 270deg ) ;
+	transform: translate( -100% ) rotate( 270deg ) ;
+	-moz-transform-origin: top right ;
+	-o-transform-origin: top right ;
+	-webkit-transform-origin: top right ;
+	-ms-transform-origin: top right ;
+	transform-origin: top right ;
+	filter: progid:DXImageTransform.Microsoft.Matrix( M11=6.123031769111886e-17, M12=1, M21=-1, M22=6.123031769111886e-17, sizingMethod='auto expand' ) ;
+	zoom: 1 ;
+}
+
+div.sidevertical {
+	font-size: 90pt ;
+	position: fixed ;
+	top: 110px ;
+	left: 0px ;
+}
